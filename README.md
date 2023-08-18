@@ -1,4 +1,4 @@
-Edit of Kekdaar's Incenrator prefab to use parent constraints and alter the animation.
+Edit of Kekdaar's Incenrator prefab to use parent constraints and alter the animation.<br>
 Thank you to Kekdaar for the original Incinerator particle system.
 
 # Links:
