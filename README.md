@@ -1,8 +1,8 @@
-Edit of Kekdaar's Incenrator prefab to use parent constraints and alter the animation.<br>
-Thank you to Kekdaar for the original Incinerator particle system.
+Edit of Kendaar's Incenrator to use parent constraints and alter the animation.<br>
+Thank you to Kendaar for the original Incinerator particle system.
 
 # Links:
-- Kekdaar's Twitter: https://twitter.com/Kekdaar
+- Kendaar's Twitter: https://twitter.com/Kekdaar
 - Lastation's Discord: https://discord.gg/lastation
 
 # Incinerator
